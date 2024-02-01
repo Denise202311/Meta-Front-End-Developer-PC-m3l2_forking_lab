@@ -12,7 +12,8 @@
 
     -[Anna Giacomozzi](https://github.com/annagiac) Frontend development
 - ### **B**
-
+- ### **D**
+      -[Denise Semmelweis](https://github.com/Denise202311)) Frontend development
 
 - ### **E**
     -[Ethan Zinnert] (https://github.com/Zethan7) Frontend Development
